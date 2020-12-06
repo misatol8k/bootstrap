@@ -1,3 +1,6 @@
 .alert-success {
   background-color: pink;
 }
+.label {
+    margin-left: 1em;
+}
